@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Rohan\source\repos\Raylib basics\Raylib basics\main.cpp(74,44): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rohan\source\repos\Raylib basics\Raylib basics\main.cpp(74,61): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rohan\source\repos\Raylib basics\Raylib basics\main.cpp(113,73): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rohan\source\repos\Raylib basics\Raylib basics\main.cpp(113,87): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rohan\source\repos\Raylib basics\Raylib basics\main.cpp(117,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rohan\source\repos\Raylib basics\Raylib basics\main.cpp(117,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rohan\source\repos\Raylib basics\Raylib basics\main.cpp(118,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rohan\source\repos\Raylib basics\Raylib basics\main.cpp(118,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rohan\source\repos\Raylib basics\Raylib basics\main.cpp(210,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rohan\source\repos\Raylib basics\Raylib basics\main.cpp(210,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rohan\source\repos\Raylib basics\Raylib basics\main.cpp(217,35): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Rohan\source\repos\Raylib basics\Raylib basics\main.cpp(217,35): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rohan\source\repos\Raylib basics\Raylib basics\main.cpp(218,37): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\Rohan\source\repos\Raylib basics\Raylib basics\main.cpp(218,37): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Rohan\source\repos\Raylib basics\Raylib basics\main.cpp(355,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Rohan\source\repos\Raylib basics\Raylib basics\main.cpp(364,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Rohan\source\repos\Raylib basics\Raylib basics\main.cpp(364,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Raylib basics.vcxproj -> C:\Users\Rohan\source\repos\Raylib basics\x64\Debug\Raylib basics.exe
