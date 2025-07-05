@@ -378,16 +378,16 @@ int main()
 
 			while (key > 0)
 			{
-				if ((key >= 32) && (key <= 125) && (letterCount < 31)) // Printable chars
+				if ((key >= 32) && (key <= 125) && (letterCount < 31)) 
 				{
 					playerName[letterCount] = (char)key;
 					letterCount++;
-					playerName[letterCount] = '\0'; // Null-terminate
+					playerName[letterCount] = '\0'; 
 				}
 				key = GetCharPressed();
 			}
 
-			// Handle backspace
+			
 			if (IsKeyPressed(KEY_BACKSPACE))
 			{
 				letterCount--;
@@ -396,7 +396,7 @@ int main()
 			}
 		}
 
-		// Confirm with Enter
+		
 		if (IsKeyPressed(KEY_ENTER) && letterCount > 0)
 		{
 			nameEntered = true;
